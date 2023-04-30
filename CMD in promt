@@ -1,4 +1,0 @@
-npm install dotenv
-npm init -y
-npm install openai --save
-
