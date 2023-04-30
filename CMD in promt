@@ -1,4 +1,4 @@
 npm install dotenv
 npm init -y
 npm install openai --save
-เปิดใช้งาน Privileged Intents ที่เกี่ยวข้อง ในที่นี้คุณต้องเปิดใช้งาน GUILD_PRESENCES และ GUILD_MEMBERS หากต้องการใช้งานแบบเต็มรูปแบบ:
+
